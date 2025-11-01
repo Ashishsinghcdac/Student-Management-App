@@ -1,6 +1,9 @@
 Student Management CRUD Project
 --------------------------------
 
+GitHub link: https://github.com/Ashishsinghcdac/Student-Management-App.git
+---------------------------------------------------------------------------
+
 (React + Node.js + Express + MySQL)
 
 -------Project Overview-------------
